@@ -1,2 +1,3 @@
-# DataAnalyst_Assignment_UplianceAI
-This repository showcases data cleaning, exploratory data analysis (EDA), and visualization to uncover insights from user behavior, cooking preferences, and order trends. The project focuses on merging datasets, analyzing trends, and providing actionable recommendations to optimize business strategies.
+# User Behavior and Order Trends Analysis
+This repository contains the analysis of user behavior, cooking preferences, and order trends based on three datasets: UserDetails, CookingSessions, and OrderDetails. The project involves cleaning and merging data, performing exploratory data analysis (EDA), creating visualizations, and drafting actionable business recommendations.
+
