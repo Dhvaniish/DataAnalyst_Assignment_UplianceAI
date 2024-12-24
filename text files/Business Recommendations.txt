@@ -1,0 +1,35 @@
+Summary of next steps we can dive into:
+
+1. Further Analyses:
+	- Order Trends Over Time: Let’s uncover patterns like seasonal spikes or daily/weekly ordering habits.
+	- Demographics & Behavior: Find out how factors like age and location influence ordering and cooking preferences.
+	- Session Ratings Impact: See if higher session ratings boost spending or make dishes more popular.
+
+2. Additional Visualizations:
+	- Trend Lines: Capture order counts or revenue growth with clean line charts.
+	- Relationships in Action: Use scatter plots or box plots to reveal spending habits by age or region.
+	- Dish/Meal Type Breakdown: Sharpen insights with pie charts or bar graphs for meal-specific preferences.
+
+3. Drafting a Report:
+	- Findings in Focus: Summarize all the data-backed insights with visual support.
+	- Action-Oriented Advice: Suggest boosting popular dishes, improving session ratings, or targeting top-performing locations.
+	- Strategic Suggestions: Data-inspired ideas to drive growth and engagement.
+
+4. Sharpening Visuals
+	- Action: Create cleaner, more detailed charts showcasing insights like trends over time, user demographics, and behavior.
+	- Example: Line charts for monthly order counts, pie charts for meal type popularity, and heatmaps for correlations.
+
+5. Pulling Deeper Insights
+	- Action: Investigate new patterns in the data:
+		- Seasonal or time-based order trends.
+		- Spending habits by demographic groups (e.g., age and location).
+		- Identify underperforming dishes or meal types.
+	- Outcome: A deeper understanding of user preferences and actionable trends.
+
+6. Sketching Out a Killer Report
+	- Structure:
+		- Executive Summary: Brief overview of key findings and recommendations.
+		- Detailed Insights: Present EDA results and visualizations.
+		- Recommendations: Actionable strategies (e.g., focus on top locations, boost session ratings).
+		- Conclusion: Summarize potential business impacts and next steps.
+	- Tools: Combine visuals and key insights into a cohesive narrative.

@@ -1,0 +1,36 @@
+Summary of each of the datasets that have been successfully loaded and their structures examined. Here's a summary of each:
+
+1. UserDetails
+	Columns: 	User ID, 
+			User Name, 
+			Age, 
+			Location, 
+			Registration Date, 
+			Phone, Email, 
+			Favorite Meal, 
+			Total Orders
+	Sample Data: Users with demographics, contact information, preferred meal type, and order count.
+
+2. CookingSessions
+	Columns: 	Session ID, 
+			User ID, 
+			Dish Name, 
+			Meal Type, 
+			Session Start, 
+			Session End, 
+			Duration (mins), 
+			Session Rating
+	Sample Data: Records of cooking sessions, including timing, dish prepared, and user feedback.
+
+3. OrderDetails
+	Columns: 	Order ID, 
+			User ID, 
+			Order Date, 
+			Meal Type, 
+			Dish Name, 
+			Order Status, 
+			Amount (USD), 
+			Time of Day, 
+			Rating, 
+			Session ID
+	Sample Data: Order details with statuses, payment amounts, associated cooking sessions, and customer ratings.

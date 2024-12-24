@@ -1,0 +1,16 @@
+Data Cleaning and Merging Results
+
+Null Values:
+	1. No missing values in UserDetails or CookingSessions.
+	2. OrderDetails has 2 missing values in the Rating column.
+
+Duplicates:
+	1. No duplicates in any dataset.
+
+Merged Dataset:
+	- Merged successfully using User ID and Session ID.
+	- Total 24 columns, combining details from all three datasets.
+	- No new nulls introduced during the merge process.
+
+Filling Missing Data:
+	- Filled missing values in Rating column of OrderDetails.csv with mean.

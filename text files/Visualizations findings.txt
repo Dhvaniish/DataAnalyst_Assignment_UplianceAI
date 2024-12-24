@@ -1,0 +1,15 @@
+The visualizations for the key insights:
+
+1. Average Order Amount by Meal Type: A bar chart comparing average spending for breakfast, lunch, and dinner.
+2. Average Spending by Age: A line chart reveals how user spending varies across age groups.
+3. Correlation Between Ratings: A heatmap showing the moderate positive correlation between session and order ratings.
+4. Meal Type Preferences: A pie chart illustrates the share of breakfast, lunch, and dinner orders.
+5. Most Popular Dishes: A bar chart showing the top dishes based on the number of orders.
+6. Top Locations by Total Orders: A bar chart highlighting the cities with the most orders.
+7. Total Spending by Location: A bar chart visualizes which cities generate the highest revenue.
+8. User Age Distribution: A histogram illustrating the age spread of users.
+
+
+
+
+

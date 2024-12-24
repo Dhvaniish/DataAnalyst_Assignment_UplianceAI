@@ -1,0 +1,26 @@
+Exploratory Data Analysis (EDA) Insights
+
+	1. Popular Dishes:
+		- Most ordered dishes are:
+			> Spaghetti: 4 times
+			> Grilled Chicken: 4 times
+			> Caesar Salad: 3 times
+			> Pancakes: 2 times
+			> Veggie Burger: 2 times
+
+	2. Average Order Amount by Meal Type:
+		> Breakfast: $7.83
+		> Lunch: $10.00
+		> Dinner: $13.31
+
+	3. User Age Distribution:
+		> Average age: 32.7 years
+		> Age range: 25–42 years
+		> Most users fall between 28 and 36 years old.
+
+	4. Top Locations by Total Orders:
+		> New York, Los Angeles, and Chicago lead with 3 orders each.
+		> San Francisco and Seattle follow with 2 orders each.
+
+	5. Correlation Between Session Rating and Order Rating:
+		> Moderate positive correlation (0.61) between session ratings and order ratings, suggesting that well-rated cooking sessions likely result in higher order ratings.
