@@ -40,23 +40,23 @@ Datasets
 
 📑 Recommendations
 1. Focus on Popular Dishes
-  > Promote top dishes like Spaghetti and Grilled Chicken to boost user engagement.
+  - Promote top dishes like Spaghetti and Grilled Chicken to boost user engagement.
 2. Optimize Meal Offerings
-  > Enhance dinner options and introduce breakfast/lunch promotions to balance preferences.
+  - Enhance dinner options and introduce breakfast/lunch promotions to balance preferences.
 3. Target High-Performing Locations
-  > Focus marketing and promotional efforts in New York, Los Angeles, and Chicago.
+  - Focus marketing and promotional efforts in New York, Los Angeles, and Chicago.
 4. Improve Cooking Sessions
-  > Invest in enhancing session quality to positively impact order ratings.
+  - Invest in enhancing session quality to positively impact order ratings.
 5. Seasonal Promotions
-  > Leverage insights from monthly order trends for targeted seasonal campaigns.
+  - Leverage insights from monthly order trends for targeted seasonal campaigns.
 6. Age-Based Strategies
-  > Develop personalized campaigns for the high-spending 30–35 age group.
+  - Develop personalized campaigns for the high-spending 30–35 age group.
 
 🧰 Tools and Technologies
-> Python: Data cleaning, analysis, and visualization.
-> Pandas: Data manipulation and merging.
-> Matplotlib & Seaborn: Visualization.
-> Jupyter Notebook: For creating and sharing analysis.
+- Python: Data cleaning, analysis, and visualization.
+- Pandas: Data manipulation and merging.
+- Matplotlib & Seaborn: Visualization.
+- Jupyter Notebook: For creating and sharing analysis.
 
 🚀 How to Run
 1. Clone the repository.
