@@ -32,11 +32,10 @@ Datasets
   + Improve cooking session ratings to enhance user satisfaction.
 
 📊 Visual Insights
-1. Monthly Order Trends
-2. Total Spending by Location
-3. Meal Type Preferences
-4. User Age Distribution
-5. Ratings Correlation
+1. Total Spending by Location
+2. Meal Type Preferences
+3. User Age Distribution
+4. Ratings Correlation
 
 📑 Recommendations
 1. Focus on Popular Dishes
